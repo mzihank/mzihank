@@ -20,7 +20,6 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=py,html,css,js,git,github&theme=dark&perline=8" alt="Python, HTML, CSS, JavaScript, Git, GitHub" />
 </a>
----
 </div>
 
 ## GitHub Activity
